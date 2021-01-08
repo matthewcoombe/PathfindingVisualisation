@@ -1,3 +1,8 @@
+# Matthew Coombe, Nurayn Hashim
+# 08 January 2021
+# Pathfinding visualisation
+
+
 import pygame
 import pygame_gui
 from tkinter import *
